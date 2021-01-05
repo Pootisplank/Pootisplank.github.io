@@ -1,3 +1,3 @@
 # Alex Lin's User Page
 
-Python is very cool
+Python is very very cool
