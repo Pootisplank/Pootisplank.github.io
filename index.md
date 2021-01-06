@@ -28,7 +28,7 @@ Hobbies:
 
 [GitHub](https://github.com/Pootisplank/)
 
-[Resume](**resume.pdf**)
+[Resume](resume.pdf)
 
 ## Skills
 
