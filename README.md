@@ -1,5 +1,7 @@
 ## Welcome to Alex Lin's GitHub Pages!
 
+
+
 # Largest Header
 ## Medium Header
 ##### Smallest Header
@@ -40,6 +42,6 @@ Code
 - [x] \(Optional) Task Lists
 - [ ] Are Not done
 
-:shipit:
-
 Ignore \*this italics\*
+
+![Missing Image](https://www.state.gov/wp-content/uploads/2018/11/Iceland-2109x1406.jpg_
