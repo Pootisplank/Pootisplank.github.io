@@ -1,29 +1,45 @@
 ## Welcome to Alex Lin's GitHub Pages!
 
-You can use the [editor on GitHub](https://github.com/Pootisplank/Pootisplank.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Largest Header
+## Medium Header
+##### Smallest Header
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Bold**
+*Italics*
+~~Strikethrough~~
+**_Italics_ In Bold**
+***All Bold and Italics***
 
-### Markdown
+>A very inspirational quote
+`Very inspirational code`
+```
+A
+Block
+Of
+Code
+```
+[GitHub Link](https://github.com/Pootisplank/Pootisplank.github.io)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Relative Link
+[Relative Link](folder/newfile)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
+- This
+- Is
+- A
 - List
 
-1. Numbered
+1. Ordered
 2. List
+3. Is Cool
 
-**Bold** and _Italic_ and `Code` text
+1. Nested
+   - Lists
+   - Are
+     - Awesome
 
-[Link](url) and ![Image](src)
-```
+- [x] \(Optional) Task Lists
+- [ ] Are Not done
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+:shipit:
+
+Ignore \*this italics\*
