@@ -1,47 +1,61 @@
-## Welcome to Alex Lin's GitHub Pages!
+# Welcome to Alex Lin's GitHub Pages!
 
+> Insert inspirational quote here
 
+`print(goodCodingPractices)`
 
-# Largest Header
-## Medium Header
-##### Smallest Header
+## About Me
 
-**Bold**
-*Italics*
-~~Strikethrough~~
-**_Italics_ In Bold**
-***All Bold and Italics***
+I am a third year student at **_Univeristy of California San Diego_** studying **Computer Science**. I have a passion for Software Development and love researching and learning new technologies.
 
->A very inspirational quote
-`Very inspirational code`
 ```
-A
-Block
-Of
-Code
+Current Tech/Software Interests:
+1. Web Development - Frontend and Backend
+2. JavaScript
+3. Golang
+
+Hobbies:
+1. Running
+2. Drawing
+3. Piano
+4. Video Games
+5. Chess
 ```
-[GitHub Link](https://github.com/Pootisplank/Pootisplank.github.io)
 
-## Relative Link
-[Relative Link](folder/newfile)
+## Links
 
-- This
-- Is
-- A
-- List
+[Linkedin](https://www.linkedin.com/in/alex-lin0/)
 
-1. Ordered
-2. List
-3. Is Cool
+[GitHub](https://github.com/Pootisplank/)
 
-1. Nested
-   - Lists
-   - Are
-     - Awesome
+[Resume](**resume.pdf**)
 
-- [x] \(Optional) Task Lists
-- [ ] Are Not done
+## Skills
 
-Ignore \*this italics\*
+1. Programming Languages
+   - Python, Java, C++, JavaScript
+2. Data Management
+   - MongoDB, MySQL
+3. Other
+   - Agile, Git/GitHub, PowerBi
 
-![Missing Image](https://www.state.gov/wp-content/uploads/2018/11/Iceland-2109x1406.jpg_
+## Experience
+
+1. Internships (See Resume for Details)
+   - Toyota SWE Summer 2020
+   - Incoming Salesforce SWE Summer 2021
+2. Projects
+   - PoE Flipper - Website for Path of Exile pricing data
+
+## Goals
+
+- [x] Do a web dev project.
+- [ ] Integrate a database into a website.
+- [ ] Learn more JavaScript.
+- [ ] Contribute to an open source project.
+- [ ] Do a project with Golang.
+- [ ] ~~Learn to cook.~~
+
+## Thanks for visiting and reading!
+
+![Image not found](img/duck.jpg)
